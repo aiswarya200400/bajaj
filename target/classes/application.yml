@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: webhook-sql-bot
+
+app:
+  candidate:
+    name: "M Sai Aiswarya"
+    regNo: "1RF22IS042"
+    email: "rvit22bis052.rvitm@rvei.edu.in"
+  solution:
+    finalSql: "SELECT 1"
